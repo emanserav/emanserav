@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Edi
 - 👀 I’m a Cloud Solution Architect with a passion for DevOps 
 - 🌱 I’m currently engaged in Cloud and DevOps Projects with AZURE
-- 💞️ I’m looking to collaborate on Cloud Projects of any kind but mainly from AWS, AZURE, GOOGLE
+- 💞️ I’m looking to collaborate on Cloud Projects of any kind but mainly from AWS, AZURE, GOOGLE (Kubernetes), IBM (OpenShift)
 - 📫 Feel free to email me
 
 <!---
